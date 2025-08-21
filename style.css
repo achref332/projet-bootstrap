@@ -1,0 +1,10 @@
+/* Section Héros */
+#hero {
+  background: url('assets/plat2.jpg') center center/cover no-repeat;
+  height: 80vh;
+}
+
+/* Pied de page */
+footer a:hover {
+  color: #0d6efd;
+}
